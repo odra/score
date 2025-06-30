@@ -12,22 +12,14 @@ assignees: ''
 
 ## Motivation
 
-## Rationale
+## Demo
 
-## Specification
+## Specification Changes
 
-## Backwards Compatibility
+### Backwards Compatibility
 
-## Security Impact
+### Security Impact
 
-## Safety Impact
+### Safety Impact
 
 ## License Impact
-
-## How to Teach This
-
-## Rejected Ideas
-
-## Open Issues
-
-## Footnotes
