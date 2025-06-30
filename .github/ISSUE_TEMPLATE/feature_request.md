@@ -22,4 +22,4 @@ assignees: ''
 
 ### Safety Impact
 
-## License Impact
+## Licenses
