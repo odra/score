@@ -12,7 +12,7 @@ assignees: ''
 
 ## Motivation
 
-## How to Run
+## Running Instructions
 
 ## Specification Changes
 
