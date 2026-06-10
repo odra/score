@@ -81,3 +81,10 @@ single_version_override(
     module_name = "score_tooling",
     version = "1.1.2",
 )
+
+###############################################################################
+#
+# Score Toolchains
+#
+###############################################################################
+include("//score_toolchains:score_gcc_toolchains.MODULE.bazel")
